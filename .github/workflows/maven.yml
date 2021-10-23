@@ -22,7 +22,7 @@ jobs:
         java-version: '11'
         distribution: 'adopt'
         cache: maven
-    - name: Compile with Maven
-      run: mvn compile
+
     - name: Clean install
       run: mvn clean install
+
