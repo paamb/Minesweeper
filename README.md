@@ -1,6 +1,6 @@
 # Minesweeper
 
-Java minesweeper spill, lagd med Maven
+Java minesweeper spill, bygget på Maven
 
 ---
 ### Kjøring av Appen
