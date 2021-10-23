@@ -1,5 +1,7 @@
 # Minesweeper
+
 Java minesweeper spill, lagd med Maven
+
 ---
 ### Kjøring av Appen
 
